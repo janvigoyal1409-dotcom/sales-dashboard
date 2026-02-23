@@ -34,7 +34,6 @@ Developed a Power BI dashboard that transforms raw sales data into meaningful bu
 ## 🛠 Tools & Technologies
 - Power BI Desktop
 - Data Modeling
-- DAX Measures
 - Data Visualization
 - Business Intelligence Analytics
 
